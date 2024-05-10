@@ -88,7 +88,7 @@ main {
     height: 700px;
     max-width: 1200px;
     width: 100%;
-    background-image: url(images/img-mission-background.jpg);
+    background-image: url(./images/img-mission-background.jpg);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -145,7 +145,7 @@ main {
   .locations {
     min-height: 500px;
     width: 1200px;
-    background-image: url(images/img-locations-background.jpg);
+    background-image: url(./images/img-locations-background.jpg);
     margin-top: 40px;
     display: flex;
     flex-direction: column;
